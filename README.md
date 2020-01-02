@@ -3,7 +3,7 @@
 Robotic process automation using [Automagica](https://github.com/OakwoodAI/Automagica) for creating new Channels for the Account Management Portal in Microsoft Teams.
 
 ## Requirements
-This application requires [Python 3.7](https://www.python.org) or above and list of libraries and modules. To install the libraries, run the following command.
+This application requires [Google Chrome](https://www.google.com/chrome), [Python 3.7](https://www.python.org) or above and a list of libraries and modules. To install the libraries, run the following command.
 <pre>   pip install -r requirements.txt </pre>
 
 Create a local copy of files to be copied to the channel.
