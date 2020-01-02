@@ -6,6 +6,8 @@ Robotic process automation using Automagica (github.com/OakwoodAI/Automagica) fo
 This application requires Python 3.7.4 and list of libraries and modules. To install the libraries, run the following command.
 <pre>   pip install -r requirements.txt </pre>
 
+IMPORTANT: This program requires a display with resolution 1920 x 1080 without scaling. The display scaling must be set to 100%.
+
 ## Usage
 1. Run main.py
 <pre>   python main.py    </pre>
