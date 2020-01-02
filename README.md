@@ -3,12 +3,20 @@
 Robotic process automation using Automagica (github.com/OakwoodAI/Automagica) for creating new Channels for the Account Management Portal in Microsoft Teams.
 
 ## Requirements
-This application requires Python 3.7.4 and list of libraries and modules. To install the libraries, run the following command.
+This application requires Python 3.7 or above and list of libraries and modules. To install the libraries, run the following command.
 <pre>   pip install -r requirements.txt </pre>
+
+Create a local copy of files to be copied to the channel.
+* Create a directory for UK&I, download a copy of the template file and AVS Tools from any of the UK&I Teams.
+* Create a directory for Others, download a copy of the template file and AVS Tools from a Team other than UK&I.
+
+Update the path to directories in _copy_template()_ and _copy_avs_files()_ in _channels.py_ with the ones you just created.
 
 IMPORTANT: This program requires a display with resolution 1920 x 1080 without scaling. The display scaling must be set to 100%.
 
 ## Usage
+Before running, make sure you have correctly set the file directories in _channels.py_.
+
 1. Run main.py
 <pre>   python main.py    </pre>
 2. Enter the name of the channel to be created
