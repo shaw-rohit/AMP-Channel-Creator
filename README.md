@@ -17,9 +17,9 @@ Update the path to directories in _copy_template()_ and _copy_avs_files()_ in _c
 ## Usage
 1. Run main.py
 <pre>   python main.py    </pre>
-2. Enter the name of the channel to be created
-3. Enter the name of the country where the channel belongs
-4. Enter your (short) NetApp email address
+2. Enter your (short) NetApp email address
+3. Enter the name of the channel to be created
+4. Enter the name of the country where the channel belongs
 5. Launch the Authenticator app on your phone and approve login
 6. Watch the channel being created!
 
