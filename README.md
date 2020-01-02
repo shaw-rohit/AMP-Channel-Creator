@@ -12,7 +12,7 @@ Create a local copy of files to be copied to the channel.
 
 Update the path to directories in _copy_template()_ and _copy_avs_files()_ in _channels.py_ with the ones you just created.
 
-IMPORTANT: This program requires a display with resolution 1920 x 1080 without scaling. The display scaling must be set to 100%.
+**IMPORTANT: This program requires a display with resolution 1920 x 1080 without scaling. The display scaling must be set to 100%.**
 
 ## Usage
 Before running, make sure you have correctly set the file directories in _channels.py_.
