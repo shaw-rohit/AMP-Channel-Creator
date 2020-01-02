@@ -25,4 +25,4 @@ Update the path to directories in _copy_template()_ and _copy_avs_files()_ in _c
 
 **Do not use your computer until the channel creation process has completed.**
 
-***Property of @NetApp***
+Property of @NetApp
